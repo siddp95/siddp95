@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @siddp95
-- 👀 I’m interested in sport data analytics
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on anything a beginner can do
+- 👀 I’m interested in data analytics and data science
+- 🌱 I’m currently learning python and SQL!
 - 📫 How to reach me Instant Message
 
 <!---
